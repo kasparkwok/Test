@@ -153,14 +153,3 @@ In addition, you also find a duplicated car entry for VIN `DAM41UDN3CHU2WVF6`. Y
 
 1. If you have successfully created the pull request you are done!  CONGRATS :)
 
-## References
-
-[Database seeding](https://en.wikipedia.org/wiki/Database_seeding)
-
-[MySQL Reference: Creating a Table](https://dev.mysql.com/doc/refman/8.0/en/creating-tables.html)
-
-[MySQL Reference: INSERT Syntax](https://dev.mysql.com/doc/refman/8.0/en/insert.html)
-
-[MySQL Reference: UPDATE Syntax](https://dev.mysql.com/doc/refman/8.0/en/update.html)
-
-[MySQL Reference: DELETE Syntax](https://dev.mysql.com/doc/refman/8.0/en/delete.html)
